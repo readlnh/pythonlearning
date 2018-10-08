@@ -7,3 +7,4 @@ class Person:
 
 p = Person('readlnh')
 p.say_hi()
+print(p.name)
